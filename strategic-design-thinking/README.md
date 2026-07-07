@@ -27,6 +27,10 @@ Use it whenever you're handed:
 - A digital transformation project
 - A vague "give me some ideas" ask
 
+## Reference deck
+
+The original training deck this skill was distilled from is included here: [`reference/Strategic-Design-Thinking.pptx`](reference/Strategic-Design-Thinking.pptx).
+
 ## Install
 
 Download `SKILL.md` from this folder and add it to your Claude skills directory, or point Claude at this repo.
